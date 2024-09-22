@@ -1,0 +1,13 @@
+
+.main__container{
+  display: flex;
+  width: 95%;
+  margin-top: 10px;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.task__block{
+  font-size: 30px;
+  color: white;
+}
