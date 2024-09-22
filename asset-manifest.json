@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/my-redux-app/static/css/main.212daa04.css",
+    "main.js": "/my-redux-app/static/js/main.2edd9fc9.js",
+    "static/media/delete.svg": "/my-redux-app/static/media/delete.7c9f7d7f7189901d9cdb1b480f2745b2.svg",
+    "index.html": "/my-redux-app/index.html",
+    "main.212daa04.css.map": "/my-redux-app/static/css/main.212daa04.css.map",
+    "main.2edd9fc9.js.map": "/my-redux-app/static/js/main.2edd9fc9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.212daa04.css",
+    "static/js/main.2edd9fc9.js"
+  ]
+}
